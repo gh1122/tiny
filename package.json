@@ -1,0 +1,13 @@
+{
+  "name": "gh392_utils",
+  "version": "1.0.2",
+  "scripts": {
+    "build:watch": "webpack --watch"
+  },
+  "dependencies": {
+    "webpack": "^5.74.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}
