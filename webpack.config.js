@@ -10,5 +10,6 @@ module.exports = {
         library: 'ghUtils',
         // 打包生成通过esm、commonjs、requirejs的语法引入
         libraryTarget: 'umd',
+        clean: true,
     },
 };
